@@ -1,4 +1,4 @@
-package com.alluxio.benchmarks.data
+package alluxio.benchmarks.data
 
 /**
   * Created by peis on 6/27/16.
